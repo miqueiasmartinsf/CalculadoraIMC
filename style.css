@@ -1,0 +1,76 @@
+*{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(utilitarios/pexels-иван-кузнецов-8594360.jpg);
+
+}
+
+.container{
+    width: 500px;
+    height: 700px;
+    background-color: #4773A8;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px 20px;
+}
+
+.mainTitle{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.divInputsdiv {
+    width: 100%;
+    height: 70px;
+    margin-top: 20px;
+    background-color:#36577F ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.214);
+    padding-top: 30px;
+}
+
+.divInputsdiv:hover{
+    scale: 1.1;
+    transition: 0.8s;
+}
+
+.divInputs input{
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    border-width: 0px;
+    height: 30px;
+    width: 270px;
+    padding-left: 10px;
+}
+
+.divInputs label{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.button{
+    margin-top: 20px;
+    margin-left:90px;
+}
+
+
+
+
+
+.result{
+    margin-top: 20px;
+    height: 150px;
+    background-color: #8AA2BF;
+    border-radius: 20px;
+    padding: 20px 20px;
+    font-size: 30px;
+    color: black;
+}
+
